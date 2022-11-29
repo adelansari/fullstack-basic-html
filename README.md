@@ -23,9 +23,7 @@ Check out my website here: https://fs13-portfolio-html.vercel.app/
  ┃ ┗ 📜profilePic.png
  ┣ 📜.gitignore
  ┣ 📜index.html
- ┣ 📜readme-example.png
- ┣ 📜README.md
- ┗ 📜result.png
+ ┗ 📜README.md
 ```
 
 ## Getting Started
