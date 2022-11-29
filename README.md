@@ -1,18 +1,31 @@
-# Introduction to basic HTML
+# Introduction
 
-Practice Git CLI, basic HTML elements and build short introduction about yourself.
+![HTML5](https://img.shields.io/badge/HTML-v.5-blue?logo=HTML5)
 
-## Requirement
+Creating a portfolio website using basic HTML elements.
 
-Edit the codes in `index.html` and create a webpage to introduce yourself similar to
-[this sample](https://integrify-finland.github.io/bof-introduction-sample/)
+## Table of content
+  - [Technologies](#technologies)
+  - [Project structure](#project-structure)
+  - [Getting Started](#getting-started)
 
-1. Make use of different tags: headings, paragraphs, link, italic, ordered list, unordered list,table, form
-2. Check out more tags that might be helpful: address, section, article, audio
-3. Make sure you do not leave unnecessary while space in your codes
-Styling is not needed for this assignment
-4. Deploy your code base into any hosting platform of your choice. Rewrite README file to describe your project with few more details.
-![README example](readme-example.png)
 
-## Result
-![result](result.png)
+## Technologies
+- HTML5
+
+## Project structure
+
+```
+📦.
+ ┣ 📂assets
+ ┃ ┗ 📜profilePic.png
+ ┣ 📜.gitignore
+ ┣ 📜index.html
+ ┣ 📜readme-example.png
+ ┣ 📜README.md
+ ┗ 📜result.png
+```
+
+## Getting Started
+- Clone the repository: `git clone`
+- Open `index.html` with Live Server.
