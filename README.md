@@ -11,3 +11,5 @@ Edit the codes in `index.html` and create a webpage to introduce yourself simila
 2. Check out more tags that might be helpful: address, section, article, audio
 3. Make sure you do not leave unnecessary while space in your codes
 Styling is not needed for this assignment
+4. Deploy your code base into any hosting platform of your choice. Rewrite README file to describe your project with few more details.
+![README example](readme-example.png)
