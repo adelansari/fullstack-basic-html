@@ -4,7 +4,7 @@
 
 Creating a portfolio website using basic HTML elements.
 
-Check out my website here: https://fs13-basic-html.vercel.app/
+Check out my website here: https://fs13-portfolio-html.vercel.app/
 
 ## Table of content
   - [Technologies](#technologies)
